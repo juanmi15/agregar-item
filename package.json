@@ -1,0 +1,24 @@
+{
+  "name": "agregar-item",
+  "version": "1.0.0",
+  "description": "Este repositorio es para practicar manejo del DOM con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch":"tailwindcss -i ./public/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmi15/agregar-item.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmi15/agregar-item/issues"
+  },
+  "homepage": "https://github.com/juanmi15/agregar-item#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
